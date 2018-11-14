@@ -1,1 +1,9 @@
 # Company-planner
+## Problem statement
+Some companies depend to much on the old method of writing everything on paper. There are a lot of downsides of writing everything on paper. One of those downsides is, if a paper is lost, which happens a lot, and people don't remember what was on the paper the information is lost as well. When writing on a computer was introduced a lot of those problems were solved, but some people don't want to move with the technology. When I look at my dad, who has his own company, doesn't want to use a tablet to put information on for his employees. How he does it now is, he tells them in the morning how they should do everything, but sometimes they forget and do it some other way that isn't fully correct. He doesn't want to do it with a tablet, first, because it is expensive to buy such programs for such a small company and secondly, he doesn't sees the essence to modernise the daily operation. 
+These are the people I want to target with my application. The people that want a simple, useable app for not to much money.
+
+## Solution
+My solution to this problem is making an app where a owner of a company, or the planner of the company, can make a planning in the app. He can enter multiple bits of information, such as adress, phone number, urgency, etc. But he can also search in the database to see prior works that have been done at that adress or see customer information. 
+The employee can than see on his app what his task is, where he has to go and at what time. The employee can also see some customer information that the planner has enabled for the employee to see. When the employee is done with their task they can close the task and enter the relevant information, such as working hours, used parts. 
+The financial employee of the company can also see all of this information to see how much hours need to be billed to the customer and what parts need to be billed. 
